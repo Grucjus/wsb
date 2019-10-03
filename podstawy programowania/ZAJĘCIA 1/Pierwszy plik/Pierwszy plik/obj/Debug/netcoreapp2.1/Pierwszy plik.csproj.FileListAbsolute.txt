@@ -1,0 +1,11 @@
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\bin\Debug\netcoreapp2.1\Pierwszy plik.deps.json
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\bin\Debug\netcoreapp2.1\Pierwszy plik.runtimeconfig.json
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\bin\Debug\netcoreapp2.1\Pierwszy plik.runtimeconfig.dev.json
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\bin\Debug\netcoreapp2.1\Pierwszy plik.dll
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\bin\Debug\netcoreapp2.1\Pierwszy plik.pdb
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\obj\Debug\netcoreapp2.1\Pierwszy plik.csprojAssemblyReference.cache
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\obj\Debug\netcoreapp2.1\Pierwszy plik.csproj.CoreCompileInputs.cache
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\obj\Debug\netcoreapp2.1\Pierwszy plik.AssemblyInfoInputs.cache
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\obj\Debug\netcoreapp2.1\Pierwszy plik.AssemblyInfo.cs
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\obj\Debug\netcoreapp2.1\Pierwszy plik.dll
+C:\Git\podstawy programowania\ZAJĘCIA 1\Pierwszy plik\Pierwszy plik\obj\Debug\netcoreapp2.1\Pierwszy plik.pdb
